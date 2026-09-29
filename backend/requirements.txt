@@ -1,0 +1,15 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30
+sqlalchemy>=2.0
+pydantic>=2.7
+pydantic-settings>=2.3
+psycopg2-binary>=2.9
+httpx>=0.27
+python-multipart>=0.0.9
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+joblib>=1.4
+pytest>=8.0
+# Optional (uncomment if you want gradient boosting instead of RandomForest):
+# xgboost>=2.0

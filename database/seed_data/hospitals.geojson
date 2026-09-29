@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Mysore Medical College & KR Hospital",
+    "htype": "District",
+    "beds": 800,
+    "emergency_beds": 100,
+    "occupancy_pct": 79.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6574,
+     12.3108
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Cheluvamba Hospital",
+    "htype": "District",
+    "beds": 350,
+    "emergency_beds": 50,
+    "occupancy_pct": 83.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6194,
+     12.2778
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hebbal PHC",
+    "htype": "Primary Health Centre",
+    "beds": 30,
+    "emergency_beds": 8,
+    "occupancy_pct": 56.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6334,
+     12.2858
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Apollo BGS Hospitals, Mysore",
+    "htype": "Private",
+    "beds": 150,
+    "emergency_beds": 20,
+    "occupancy_pct": 71.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6414,
+     12.3158
+    ]
+   }
+  }
+ ]
+}

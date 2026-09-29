@@ -1,0 +1,155 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Gokulam Community Tap",
+    "wptype": "Community tap",
+    "status": "Operational"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6444,
+     12.3118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Kukkarahalli Lake Tanker Point",
+    "wptype": "Tanker point",
+    "status": "Operational"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6454,
+     12.2918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Kuvempunagar Standpost",
+    "wptype": "Standpost",
+    "status": "Operational"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6184,
+     12.2998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "K. R. Mohalla Bazaar Tap",
+    "wptype": "Community tap",
+    "status": "Operational"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6414,
+     12.3018
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hebbal Tanker",
+    "wptype": "Tanker point",
+    "status": "Operational"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6334,
+     12.2848
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Yadavagiri Standpost",
+    "wptype": "Standpost",
+    "status": "Operational"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6514,
+     12.3078
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Nazarbad Well Point",
+    "wptype": "Community tap",
+    "status": "Operational"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6204,
+     12.2838
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Saraswathipuram Tap",
+    "wptype": "Community tap",
+    "status": "Operational"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6494,
+     12.2898
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bannimantap Tanker",
+    "wptype": "Tanker point",
+    "status": "Operational"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6274,
+     12.2808
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Vidyaranyapuram Standpost",
+    "wptype": "Standpost",
+    "status": "Operational"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6574,
+     12.3098
+    ]
+   }
+  }
+ ]
+}

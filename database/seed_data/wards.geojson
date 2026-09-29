@@ -1,0 +1,785 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-01",
+    "name": "Vidyaranyapuram",
+    "population": 44713,
+    "elderly_pct": 12.2,
+    "outdoor_worker_density": 2397.0,
+    "informal_housing_pct": 13.5,
+    "hospital_access_score": 86.3,
+    "population_density": 48898.0,
+    "green_cover_pct": 36.6,
+    "chronic_disease_pct": 4.9,
+    "elevation_m": 734.0,
+    "area_km2": 0.91
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.638011,
+       12.320644
+      ],
+      [
+       76.643749,
+       12.317699
+      ],
+      [
+       76.643156,
+       12.312943
+      ],
+      [
+       76.639074,
+       12.310252
+      ],
+      [
+       76.634611,
+       12.31277
+      ],
+      [
+       76.633447,
+       12.317331
+      ],
+      [
+       76.638011,
+       12.320644
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-02",
+    "name": "Kuvempunagar",
+    "population": 32700,
+    "elderly_pct": 14.2,
+    "outdoor_worker_density": 3418.0,
+    "informal_housing_pct": 5.6,
+    "hospital_access_score": 38.9,
+    "population_density": 15505.0,
+    "green_cover_pct": 18.3,
+    "chronic_disease_pct": 4.0,
+    "elevation_m": 719.0,
+    "area_km2": 2.11
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.657952,
+       12.308823
+      ],
+      [
+       76.665211,
+       12.30524
+      ],
+      [
+       76.664878,
+       12.298203
+      ],
+      [
+       76.658882,
+       12.294206
+      ],
+      [
+       76.652493,
+       12.298486
+      ],
+      [
+       76.651352,
+       12.304942
+      ],
+      [
+       76.657952,
+       12.308823
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-03",
+    "name": "Jayalakshmipuram",
+    "population": 45500,
+    "elderly_pct": 9.7,
+    "outdoor_worker_density": 1897.0,
+    "informal_housing_pct": 30.1,
+    "hospital_access_score": 26.1,
+    "population_density": 26016.0,
+    "green_cover_pct": 39.1,
+    "chronic_disease_pct": 12.7,
+    "elevation_m": 732.0,
+    "area_km2": 1.75
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.651037,
+       12.286671
+      ],
+      [
+       76.656822,
+       12.283528
+      ],
+      [
+       76.657404,
+       12.275114
+      ],
+      [
+       76.651102,
+       12.273236
+      ],
+      [
+       76.64551,
+       12.276846
+      ],
+      [
+       76.643821,
+       12.2837
+      ],
+      [
+       76.651037,
+       12.286671
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-04",
+    "name": "Hebbal",
+    "population": 32723,
+    "elderly_pct": 9.7,
+    "outdoor_worker_density": 4590.0,
+    "informal_housing_pct": 21.3,
+    "hospital_access_score": 28.7,
+    "population_density": 20845.0,
+    "green_cover_pct": 8.8,
+    "chronic_disease_pct": 4.3,
+    "elevation_m": 750.0,
+    "area_km2": 1.57
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.628262,
+       12.285864
+      ],
+      [
+       76.634626,
+       12.283537
+      ],
+      [
+       76.633016,
+       12.276398
+      ],
+      [
+       76.628633,
+       12.272216
+      ],
+      [
+       76.621374,
+       12.275978
+      ],
+      [
+       76.621672,
+       12.283064
+      ],
+      [
+       76.628262,
+       12.285864
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-05",
+    "name": "Yadavagiri",
+    "population": 37492,
+    "elderly_pct": 9.0,
+    "outdoor_worker_density": 613.0,
+    "informal_housing_pct": 28.6,
+    "hospital_access_score": 75.3,
+    "population_density": 68193.0,
+    "green_cover_pct": 44.9,
+    "chronic_disease_pct": 12.1,
+    "elevation_m": 741.0,
+    "area_km2": 0.55
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.619115,
+       12.306983
+      ],
+      [
+       76.623384,
+       12.304554
+      ],
+      [
+       76.622042,
+       12.300229
+      ],
+      [
+       76.619005,
+       12.297902
+      ],
+      [
+       76.615994,
+       12.300377
+      ],
+      [
+       76.616269,
+       12.30412
+      ],
+      [
+       76.619115,
+       12.306983
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-06",
+    "name": "Krishnamurthypuram",
+    "population": 29153,
+    "elderly_pct": 10.0,
+    "outdoor_worker_density": 1563.0,
+    "informal_housing_pct": 23.3,
+    "hospital_access_score": 27.8,
+    "population_density": 12427.0,
+    "green_cover_pct": 35.5,
+    "chronic_disease_pct": 12.8,
+    "elevation_m": 778.0,
+    "area_km2": 2.35
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.655736,
+       12.347104
+      ],
+      [
+       76.662059,
+       12.343486
+      ],
+      [
+       76.663381,
+       12.333695
+      ],
+      [
+       76.654704,
+       12.33087
+      ],
+      [
+       76.649378,
+       12.335834
+      ],
+      [
+       76.647048,
+       12.344096
+      ],
+      [
+       76.655736,
+       12.347104
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-07",
+    "name": "Gokulam",
+    "population": 42919,
+    "elderly_pct": 12.6,
+    "outdoor_worker_density": 1592.0,
+    "informal_housing_pct": 6.2,
+    "hospital_access_score": 23.6,
+    "population_density": 23658.0,
+    "green_cover_pct": 28.6,
+    "chronic_disease_pct": 10.1,
+    "elevation_m": 701.0,
+    "area_km2": 1.81
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.68154,
+       12.329906
+      ],
+      [
+       76.687401,
+       12.327162
+      ],
+      [
+       76.687455,
+       12.318219
+      ],
+      [
+       76.680159,
+       12.315507
+      ],
+      [
+       76.674314,
+       12.320167
+      ],
+      [
+       76.674748,
+       12.327215
+      ],
+      [
+       76.68154,
+       12.329906
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-08",
+    "name": "Saraswathipuram",
+    "population": 15181,
+    "elderly_pct": 8.2,
+    "outdoor_worker_density": 2324.0,
+    "informal_housing_pct": 18.4,
+    "hospital_access_score": 56.6,
+    "population_density": 27322.0,
+    "green_cover_pct": 35.4,
+    "chronic_disease_pct": 11.1,
+    "elevation_m": 779.0,
+    "area_km2": 0.56
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.690013,
+       12.300053
+      ],
+      [
+       76.693815,
+       12.298102
+      ],
+      [
+       76.694127,
+       12.294151
+      ],
+      [
+       76.690229,
+       12.291595
+      ],
+      [
+       76.687231,
+       12.29441
+      ],
+      [
+       76.687059,
+       12.298178
+      ],
+      [
+       76.690013,
+       12.300053
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-09",
+    "name": "Udayagiri",
+    "population": 44427,
+    "elderly_pct": 17.5,
+    "outdoor_worker_density": 4476.0,
+    "informal_housing_pct": 35.5,
+    "hospital_access_score": 84.8,
+    "population_density": 42575.0,
+    "green_cover_pct": 13.5,
+    "chronic_disease_pct": 8.8,
+    "elevation_m": 717.0,
+    "area_km2": 1.04
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.681793,
+       12.272613
+      ],
+      [
+       76.685804,
+       12.270655
+      ],
+      [
+       76.685839,
+       12.264984
+      ],
+      [
+       76.681722,
+       12.261083
+      ],
+      [
+       76.675865,
+       12.26425
+      ],
+      [
+       76.677171,
+       12.269935
+      ],
+      [
+       76.681793,
+       12.272613
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-10",
+    "name": "K. R. Mohalla",
+    "population": 44533,
+    "elderly_pct": 7.8,
+    "outdoor_worker_density": 1854.0,
+    "informal_housing_pct": 5.7,
+    "hospital_access_score": 57.3,
+    "population_density": 39500.0,
+    "green_cover_pct": 42.9,
+    "chronic_disease_pct": 9.4,
+    "elevation_m": 705.0,
+    "area_km2": 1.13
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.655314,
+       12.256429
+      ],
+      [
+       76.659785,
+       12.253567
+      ],
+      [
+       76.660495,
+       12.247848
+      ],
+      [
+       76.653765,
+       12.245195
+      ],
+      [
+       76.64996,
+       12.248786
+      ],
+      [
+       76.648546,
+       12.254137
+      ],
+      [
+       76.655314,
+       12.256429
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-11",
+    "name": "Chamrajpura",
+    "population": 29590,
+    "elderly_pct": 10.0,
+    "outdoor_worker_density": 2183.0,
+    "informal_housing_pct": 26.8,
+    "hospital_access_score": 44.2,
+    "population_density": 53092.0,
+    "green_cover_pct": 19.3,
+    "chronic_disease_pct": 12.0,
+    "elevation_m": 706.0,
+    "area_km2": 0.56
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.623479,
+       12.255881
+      ],
+      [
+       76.628055,
+       12.253774
+      ],
+      [
+       76.627646,
+       12.249126
+      ],
+      [
+       76.624487,
+       12.247801
+      ],
+      [
+       76.620308,
+       12.249368
+      ],
+      [
+       76.620667,
+       12.253026
+      ],
+      [
+       76.623479,
+       12.255881
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-12",
+    "name": "Bannimantap",
+    "population": 43664,
+    "elderly_pct": 7.1,
+    "outdoor_worker_density": 3868.0,
+    "informal_housing_pct": 14.2,
+    "hospital_access_score": 71.1,
+    "population_density": 15316.0,
+    "green_cover_pct": 43.6,
+    "chronic_disease_pct": 4.6,
+    "elevation_m": 709.0,
+    "area_km2": 2.85
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.597329,
+       12.276551
+      ],
+      [
+       76.607178,
+       12.274123
+      ],
+      [
+       76.606794,
+       12.262036
+      ],
+      [
+       76.598628,
+       12.259984
+      ],
+      [
+       76.589304,
+       12.264065
+      ],
+      [
+       76.589137,
+       12.273904
+      ],
+      [
+       76.597329,
+       12.276551
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-13",
+    "name": "Lakshmipuram",
+    "population": 17573,
+    "elderly_pct": 15.0,
+    "outdoor_worker_density": 1648.0,
+    "informal_housing_pct": 29.2,
+    "hospital_access_score": 62.8,
+    "population_density": 19328.0,
+    "green_cover_pct": 23.7,
+    "chronic_disease_pct": 3.1,
+    "elevation_m": 706.0,
+    "area_km2": 0.91
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.587671,
+       12.300644
+      ],
+      [
+       76.592014,
+       12.29814
+      ],
+      [
+       76.592198,
+       12.292703
+      ],
+      [
+       76.586845,
+       12.289193
+      ],
+      [
+       76.583396,
+       12.29197
+      ],
+      [
+       76.583587,
+       12.296962
+      ],
+      [
+       76.587671,
+       12.300644
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-14",
+    "name": "Mandi Mohalla",
+    "population": 45692,
+    "elderly_pct": 18.1,
+    "outdoor_worker_density": 2226.0,
+    "informal_housing_pct": 25.1,
+    "hospital_access_score": 33.4,
+    "population_density": 30153.0,
+    "green_cover_pct": 43.3,
+    "chronic_disease_pct": 13.4,
+    "elevation_m": 778.0,
+    "area_km2": 1.52
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.598789,
+       12.331009
+      ],
+      [
+       76.60296,
+       12.32753
+      ],
+      [
+       76.604989,
+       12.320595
+      ],
+      [
+       76.597512,
+       12.316504
+      ],
+      [
+       76.592533,
+       12.321623
+      ],
+      [
+       76.592858,
+       12.326649
+      ],
+      [
+       76.598789,
+       12.331009
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W-15",
+    "name": "Nazarbad",
+    "population": 39166,
+    "elderly_pct": 11.4,
+    "outdoor_worker_density": 3882.0,
+    "informal_housing_pct": 33.6,
+    "hospital_access_score": 38.5,
+    "population_density": 79444.0,
+    "green_cover_pct": 32.7,
+    "chronic_disease_pct": 7.8,
+    "elevation_m": 722.0,
+    "area_km2": 0.49
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       76.624335,
+       12.344571
+      ],
+      [
+       76.628009,
+       12.342602
+      ],
+      [
+       76.627555,
+       12.338433
+      ],
+      [
+       76.62437,
+       12.336702
+      ],
+      [
+       76.620589,
+       12.338359
+      ],
+      [
+       76.621248,
+       12.342979
+      ],
+      [
+       76.624335,
+       12.344571
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

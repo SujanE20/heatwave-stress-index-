@@ -1,0 +1,101 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Government School - Vidyaranyapuram",
+    "capacity": 400,
+    "water_stock_l": 2400,
+    "ors_units": 600
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6554,
+     12.3098
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Community Hall - Kuvempunagar",
+    "capacity": 300,
+    "water_stock_l": 1800,
+    "ors_units": 450
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6194,
+     12.2998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Public Library - Jayalakshmipuram",
+    "capacity": 250,
+    "water_stock_l": 1500,
+    "ors_units": 350
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6514,
+     12.2958
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Anganwadi Centre - Gokulam",
+    "capacity": 200,
+    "water_stock_l": 1200,
+    "ors_units": 300
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6434,
+     12.3118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Municipal Building - K. R. Mohalla",
+    "capacity": 500,
+    "water_stock_l": 3000,
+    "ors_units": 800
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6404,
+     12.3018
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Temple Hall - Nazarbad",
+    "capacity": 180,
+    "water_stock_l": 1000,
+    "ors_units": 250
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.6194,
+     12.2848
+    ]
+   }
+  }
+ ]
+}

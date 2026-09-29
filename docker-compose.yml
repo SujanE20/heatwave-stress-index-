@@ -1,0 +1,52 @@
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    container_name: heatshield-db
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-heatshield}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-heatshield}
+      POSTGRES_DB: ${POSTGRES_DB:-heatshield}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./database/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-heatshield} -d ${POSTGRES_DB:-heatshield}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  backend:
+    build: ./backend
+    container_name: heatshield-backend
+    environment:
+      DATABASE_URL: postgresql+psycopg2://${POSTGRES_USER:-heatshield}:${POSTGRES_PASSWORD:-heatshield}@db:5432/${POSTGRES_DB:-heatshield}
+      WEATHER_PROVIDER: ${WEATHER_PROVIDER:-demo}
+      DEMO_SCENARIO: ${DEMO_SCENARIO:-severe_humid}
+      CORS_ORIGINS: ${CORS_ORIGINS:-*}
+      OPEN_METEO_BASE_URL: ${OPEN_METEO_BASE_URL:-https://api.open-meteo.com/v1}
+    ports:
+      - "${BACKEND_PORT:-8000}:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./backend:/app
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL:-http://localhost:8000}
+    container_name: heatshield-frontend
+    environment:
+      NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL:-http://localhost:8000}
+    ports:
+      - "${FRONTEND_PORT:-3000}:3000"
+    depends_on:
+      - backend
+
+volumes:
+  pgdata:
